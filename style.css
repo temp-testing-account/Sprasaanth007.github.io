@@ -1,0 +1,45 @@
+body{
+	background-image: url('background2	.jpg');
+	margin-left: 45px;
+	margin-bottom: 100px;
+	margin-right: 20px;
+}
+
+h1{
+	color:purple;
+	margin-left: 500px;
+	margin-right:565px;
+	border-style:dotted;
+	padding-right:0px;
+	padding-left:22px;
+	font-family: courier;
+}
+
+li{
+	color:white;
+	font-family:Ink Free;
+	font-size:1.3em;
+}
+
+h2{
+	color:red;
+	font-size:2em
+}
+
+p{
+	color:white;
+	font-size: 1.5em;
+}
+
+img{
+	max-height: 2%;
+	width: auto;
+	position: sticky;
+	top: 0;	
+}
+
+#footer{
+	position: fixed;
+	right:0;
+	top:0;
+}
